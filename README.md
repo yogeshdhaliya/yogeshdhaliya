@@ -40,13 +40,19 @@
 
 <h1 align="center">Hello Visitor👋, I'm Yogesh</h1>
 
+###
+
 <br clear="both">
 
 <h3 align="center">Welcome to my GitHub portfolio, where you can explore my personal projects as a data enthusiast!</h3>
 
+###
+
 <br clear="both">
 
-<h4 align="left">🔭 currently working on an analytics project at my Internship<br>🌱 I’m currently learning Machine Learning & MLops<br>🤝 I’m looking to collaborate on Data Science Projects<br>💬 Ask me about Python, BI Tools, Statistics, ML, SQL<br>📫 You can reach me at - yogeshdhaliyaa@gmail.com</h4>
+<h4 align="left">🔭 currently working on an analytics project at my Internship<br><br>🌱 I’m currently learning Machine Learning & MLops<br><br>🤝 I’m looking to collaborate on Data Science Projects<br><br>💬 Ask me about Python, BI Tools, Statistics, ML, SQL<br><br>📫 You can reach me at - yogeshdhaliyaa@gmail.com</h4>
+
+###
 
 <br clear="both">
 
