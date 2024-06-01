@@ -56,10 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/yogeshdhaliya/yogeshdhaliya/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB5am1qaWFic2I1aDZmeWp4cWljemQzdnM1dGs4dDVxMHFncHdrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif"  />
 </div>
