@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h2 align="center">Welcome to my GitHub portfolio, where you can explore my personal projects</h2>
+<h4 align="center">Welcome to my GitHub portfolio, where you can explore my personal projects as a data enthusiast!</h4>
 
 ###
 
@@ -58,14 +58,8 @@
 
 ###
 
-<br clear="both">
-
-<h1 align="center"></h1>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yogeshdhaliya&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="210" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=yogeshdhaliya&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshdhaliya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=yogeshdhaliya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=yogeshdhaliya&theme=darkhub&column=-1&row=1&margin-w=1&margin-h=1&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -86,12 +80,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/yogeshdhaliya/count.svg?"  />
 </div>
-
-###
-
-<br clear="both">
-
-<h1 align="center"></h1>
 
 ###
 
