@@ -6,6 +6,28 @@
 
 <br clear="both">
 
+<h1 align="center">Hello Visitor👋, I'm Yogesh</h1>
+
+###
+
+<br clear="both">
+
+<h3 align="center">Welcome to my GitHub portfolio, where you can explore my personal projects as a data enthusiast!</h3>
+
+###
+
+<br clear="both">
+
+<h4 align="left">🔭 currently working on an analytics project at my Internship<br><br>🌱 I’m currently learning Machine Learning & MLops<br><br>🤝 I’m looking to collaborate on Data Science Projects<br><br>💬 Ask me about Python, BI Tools, Statistics, ML, SQL<br><br>📫 You can reach me at - yogeshdhaliyaa@gmail.com</h4>
+
+###
+
+<h4 align="left">Languages/Tech Stack:</h4>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="10" />
@@ -33,24 +55,6 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<h1 align="center">Hello Visitor👋, I'm Yogesh</h1>
-
-###
-
-<br clear="both">
-
-<h3 align="center">Welcome to my GitHub portfolio, where you can explore my personal projects as a data enthusiast!</h3>
-
-###
-
-<br clear="both">
-
-<h4 align="left">🔭 currently working on an analytics project at my Internship<br><br>🌱 I’m currently learning Machine Learning & MLops<br><br>🤝 I’m looking to collaborate on Data Science Projects<br><br>💬 Ask me about Python, BI Tools, Statistics, ML, SQL<br><br>📫 You can reach me at - yogeshdhaliyaa@gmail.com</h4>
 
 ###
 
