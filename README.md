@@ -68,11 +68,9 @@
 
 ###
 
-<h4 align="center">Profile Views</h4>
+<h4 align="center">Visitors Count</h4>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/yogeshdhaliya/count.svg?"  />
@@ -80,7 +78,13 @@
 
 ###
 
-<div align="center">
+<h4 align="left">Connect With Me:</h4>
+
+###
+
+<br clear="both">
+
+<div align="left">
   <a href="https://www.linkedin.com/in/yogeshdhaliyaa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
