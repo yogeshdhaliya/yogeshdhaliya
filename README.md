@@ -62,18 +62,37 @@
 
 ###
 
-<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB5am1qaWFic2I1aDZmeWp4cWljemQzdnM1dGs4dDVxMHFncHdrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif"  />
+<div align="center">
+  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB5am1qaWFic2I1aDZmeWp4cWljemQzdnM1dGs4dDVxMHFncHdrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif"  />
+</div>
 
 ###
 
+<h3 align="center">Profile Views</h3>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yogeshdhaliya.yogeshdhaliya&left_color=black&right_color=black&left_text=Profile%20Views"  />
+  <img src="https://profile-counter.glitch.me/yogeshdhaliya/count.svg?"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="70" src="https://thepracticaldev.s3.amazonaws.com/i/pltswm81s6j50dfb2qqk.jpg"  />
+  <a href="https://www.linkedin.com/in/yogeshdhaliyaa/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/yogitweett" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="yogeshdhaliyaa@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.buymeacoffee.com/yogeshdhaliya" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
+  </a>
 </div>
 
 ###
