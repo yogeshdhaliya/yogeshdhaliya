@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-<h4 align="left">🔭 currently working on an analytics project at my Internship<br><br>🌱 I’m currently learning Machine Learning & MLops<br><br>🤝 I’m looking to collaborate on Data Science Projects<br><br>💬 Ask me about Python, BI Tools, Statistics, ML, SQL<br><br>📫 You can reach me at - yogeshdhaliyaa@gmail.com</h4>
+<h4 align="left">🔭  Currently working on an analytics project at my Internship<br><br>🌱 I’m currently learning Machine Learning & MLops<br><br>🤝 I’m looking to collaborate on Data Science Projects<br><br>💬 Ask me about Python, BI Tools, Statistics, ML, SQL<br><br>📫 You can reach me at - yogeshdhaliyaa@gmail.com</h4>
 
 ###
 
