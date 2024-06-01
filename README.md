@@ -36,8 +36,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 </div>
@@ -46,7 +44,7 @@
 
 <br clear="both">
 
-<h3 align="left">About Me:<br>🌱 I’m currently learning Machine Learning<br>🤝 I’m looking to collaborate on Data Science Projects<br>💬 Ask me about Python, BI Tools, Statistics, ML, SQL<br>👨‍💻 Wanna see my Portfolio https://yogeshdhaliya.github.io/yogeshportfolio.github.io/</h3>
+<h3 align="left">About Me:<br><br>🌱 I’m currently learning Machine Learning<br>🤝 I’m looking to collaborate on Data Science Projects<br>💬 Ask me about Python, BI Tools, Statistics, ML, SQL<br>📫 How to reach me yogeshdhaliyaa@gmail.com</h3>
 
 ###
 
