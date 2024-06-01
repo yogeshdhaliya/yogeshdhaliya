@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">About Me:<br>🌱 I’m currently learning Machine Learning<br>🤝 I’m looking to collaborate on Data Science Projects<br>💬 Ask me about Python, BI Tools, Statistics, ML, SQL<br>👨‍💻 Wanna see my Portfolio https://yogeshdhaliya.github.io/yogeshportfolio.github.io/<br>📫 How to reach me yogeshdhaliyaa@gmail.com/ </h3>
+<h3 align="left">About Me:<br>🌱 I’m currently learning Machine Learning<br>🤝 I’m looking to collaborate on Data Science Projects<br>💬 Ask me about Python, BI Tools, Statistics, ML, SQL<br>👨‍💻 Wanna see my Portfolio https://yogeshdhaliya.github.io/yogeshportfolio.github.io/<br> <br> 📫 How to reach me yogeshdhaliyaa@gmail.com <br> </h3>
 
 ###
 
