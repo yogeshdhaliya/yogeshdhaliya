@@ -36,6 +36,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
 </div>
@@ -60,6 +62,18 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=yogeshdhaliya.yogeshdhaliya&left_color=darkgray&right_color=black&left_text=Views"  />
+<img align="left" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTB5am1qaWFic2I1aDZmeWp4cWljemQzdnM1dGs4dDVxMHFncHdrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0NwGpoOVLTAyUJSo/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=yogeshdhaliya.yogeshdhaliya&left_color=black&right_color=black&left_text=Profile%20Views"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="70" src="https://thepracticaldev.s3.amazonaws.com/i/pltswm81s6j50dfb2qqk.jpg"  />
+</div>
 
 ###
