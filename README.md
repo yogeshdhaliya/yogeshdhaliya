@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif"  />
+  <img height="200" src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif"  />
 </div>
 
 ###
@@ -36,21 +36,35 @@
 
 ###
 
-<div align="center">
-  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
-</div>
+<br clear="both">
+
+<h1 align="center">Hello Visitor👋, I'm Yogesh</h1>
 
 ###
 
 <br clear="both">
 
-<h3 align="left">About Me:<br><br>🌱 I’m currently learning Machine Learning<br>🤝 I’m looking to collaborate on Data Science Projects<br>💬 Ask me about Python, BI Tools, Statistics, ML, SQL<br>📫 How to reach me yogeshdhaliyaa@gmail.com</h3>
+<h3 align="center">Welcome to my GitHub portfolio, where you can explore my personal projects as a data enthusiast!</h3>
+
+###
+
+<br clear="both">
+
+<h4 align="left">🔭 currently working on an analytics project at my Internship<br>🌱 I’m currently learning Machine Learning & MLops<br>🤝 I’m looking to collaborate on Data Science Projects<br>💬 Ask me about Python, BI Tools, Statistics, ML, SQL<br>📫 You can reach me at - yogeshdhaliyaa@gmail.com</h4>
+
+###
+
+<br clear="both">
+
+<h1 align="center"></h1>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yogeshdhaliya&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="210" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshdhaliya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogeshdhaliya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yogeshdhaliya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=yogeshdhaliya&theme=darkhub&column=-1&row=1&margin-w=1&margin-h=1&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
@@ -68,6 +82,12 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/yogeshdhaliya/count.svg?"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h1 align="center"></h1>
 
 ###
 
