@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h4 align="center">Welcome to my GitHub portfolio, where you can explore my personal projects as a data enthusiast!</h4>
+<h4 align="center">Welcome to my GitHub portfolio, where you can explore my personal projects!</h4>
 
 ###
 
