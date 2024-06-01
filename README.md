@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<h4 align="center">Welcome to my GitHub portfolio, where you can explore my personal projects as a data enthusiast!</h4>
+<h2 align="center">Welcome to my GitHub portfolio, where you can explore my personal projects as a data enthusiast!</h2>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h4 align="left">Languages/Tech Stack:</h4>
+<h3 align="left">Languages/Tech Stack:</h3>
 
 ###
 
