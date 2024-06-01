@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Optimizing Delivery Efficiency and Profitability in the Food Delivery<br>🤝 I’m looking to collaborate on Data Science Project<br>🌱 I’m currently learning ML Models, MLops<br>💬 Ask me about Python, BI Tools, Statistics, ML, SQL<br>📫 How to reach me yogeshdhaliyaa@gmail.com<br>⚡ Fun fact I can predict the future... at least with 87% accuracy and a margin of error. Don't blame me if the apocalypse is a day early!
+🔭 I’m currently working on Optimizing Delivery Efficiency and Profitability in the Food Delivery<br>🤝 I’m looking to collaborate on Data Science Projects<br>🌱 I’m currently learning ML Models, MLops<br>💬 Ask me about Python, BI Tools, Statistics, ML, SQL<br>📫 How to reach me yogeshdhaliyaa@gmail.com<br>⚡ Fun fact I can predict the future... at least with 87% accuracy and a margin of error. Don't blame me if the apocalypse is a day early!
 
 
 ## 🌐 Socials:
