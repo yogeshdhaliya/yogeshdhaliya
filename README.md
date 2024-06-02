@@ -14,11 +14,7 @@
 
 ###
 
-<h3 align="left">Languages/Tech Stack:</h3>
-
-###
-
-<br clear="both">
+<h2 align="left">Languages/Tech Stack:</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
