@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif"  />
-</div>
-
 ###
 
 <h1 align="center">Hello Visitor👋, I'm Yogesh</h1>
