@@ -5,7 +5,7 @@
 
 ### About Me:
 
-<h4 align="left">🔭  Currently working on an analytic project at my Internship<br><br>🌱 I’m currently learning Machine Learning & MLops<br><br>🤝 I’m looking to collaborate on Data Science Projects<br><br>💬 Ask me about Python, BI Tools, Statistics, ML, SQL<br><br>📫 You can reach me at - yogeshdhaliyaa@gmail.com</h4>
+<h4 align="left">🔭  Currently working as a Risk analyst at Xceedance<br><br>🌱 I’m currently learning Data Science tools<br><br>🤝 I’m looking to collaborate on Data Analytic Projects<br><br>💬 Ask me about SQL, Python, BI Tools, Statistic Methods, ML Models<br><br>📫 You can reach me at - yogeshdhaliyaa@gmail.com</h4>
 
 ###
 
