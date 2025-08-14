@@ -60,12 +60,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yogeshdhaliya/count.svg?"  />
-</div>
-
-###
-
 <h4 align="left">Connect With Me:</h4>
 
 ###
