@@ -56,10 +56,6 @@
 
 ###
 
-<h4 align="center">Visitors Count</h4>
-
-###
-
 <h4 align="left">Connect With Me:</h4>
 
 ###
